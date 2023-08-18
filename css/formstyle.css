@@ -1,0 +1,56 @@
+body{
+
+	background-image: url(https://www.everwallpaper.co.uk/cdn/shop/collections/marble-geometry-wallpaper-mural.jpg?v=1660198030);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 80%;
+	margin: 0 auto;
+
+}
+
+a{
+	text-decoration: none;
+	color:#5C046C;
+	font-weight: bold;
+}
+
+nav a:hover{
+	text-decoration: underline;
+	text-shadow: 0 0 4px #5C046C;
+}
+
+form{
+	 background-color: #cab1cb ;
+    max-width: 490px;
+    margin: 0 ;
+    padding: 20px;
+	border: 2px #F3DA83 solid;
+	box-shadow: 0 0 8px 2px #F3DA83 ;
+	padding: 20px;
+	width: 200px;
+}
+
+h1{
+	font-weight: bold;
+	color:#5C046C;
+	text-shadow: 0 0 4px #F3DA83;
+}
+
+h2{
+	font-weight: bold;
+	color:#5C046C;
+	text-shadow: 0 0 4px #F3DA83;
+
+}
+
+.color{
+	font-weight: bold;
+	color: #420647;
+
+}
+
+.btn{
+	width: 80px;
+	background: #F3DA83 ;
+	border-radius: 5px;
+}
